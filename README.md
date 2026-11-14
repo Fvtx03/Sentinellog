@@ -125,4 +125,4 @@ pytest -q
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Replace `YOUR NAME` in the license file with your own.
+MIT — see [LICENSE](LICENSE). 
